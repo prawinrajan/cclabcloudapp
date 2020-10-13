@@ -31,5 +31,7 @@ Then type the following commands.
          <li>$ git push heroku master</li> 
   </ol>
  </code>
+### Output
+app is runing - <a href="https://cclabcloudapp.herokuapp.com/"> click me!</a>
 
 ##### If this project is useful for your, pur star to this respository.

@@ -13,20 +13,24 @@
 
 ### Git command to push your command on git
 create new repository on your <a href="github.com">github</a> account.<br/>
-<code> 1. git init<br/>
-       2. git add .<br/>
-       3. git commit -m "first commit" .<br/>
-       4. git remote add origin https://github.com/yourname/yourrepositoryname.git <br/>
-       5. git branch -M master <br/>
-       6. git push -u origin master <br/>
-</code><br> Now, refresh your respository page.
+<code> <ol> 
+     <li>git init </li> 
+    <li>git add .</li> 
+    <li>git commit -m "first commit" .</li> 
+   <li>git remote add origin https://github.com/yourname/yourrepositoryname.git </li> 
+   <li>git branch -M master </li> 
+    <li>git push -u origin master</li> 
+  </ol>
+</code> Now, refresh your respository page.
 
 ### Heroku deployment command
 First you need Heroku account. if you not had heroku just go to the <a href="https://heroku.com">webiste</a>. and create a account.
 Then type the following commands.
- <code>  1.  heroku login
-         2. heroku create <yourappname-It must be unique>
-         3. git push heroku master
+ <code>  <ol>
+          <li>heroku login </li> 
+         <li>heroku create <yourappname-It must be unique></li> 
+         <li> git push heroku master</li> 
+  </ol>
  </code>
 
 ##### If this project is useful for your, pur star to this respository.

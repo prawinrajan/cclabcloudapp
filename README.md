@@ -12,15 +12,14 @@
 <code> pip install gunicorn</code>
 
 ### Git command to push your command on git
-create new repository on your <a href="github.com">github</a> account.<br/>
-<code> <ol> 
-     <li>git init </li> 
+create new repository on your <a href="github.com">github</a> account.
+<code><ol>
+    <li>git init </li> 
     <li>git add .</li> 
     <li>git commit -m "first commit" .</li> 
    <li>git remote add origin https://github.com/yourname/yourrepositoryname.git </li> 
    <li>git branch -M master </li> 
-    <li>git push -u origin master</li> 
-  </ol>
+    <li>git push -u origin master</li></ol>
 </code> Now, refresh your respository page.
 
 ### Heroku deployment command
